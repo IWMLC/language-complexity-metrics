@@ -27,9 +27,9 @@ Thus, the workshop aimed at evaluating and comparing different measures of langu
 
 The workshop participants applied their own measure(s) of language complexity to two common datasets:
 
-* A sample of the Parallel Bible Corpus (PBC), a parallel text database. The sample comprises 49  typologically diverse languages selected on the basis of typological information from The World Atlas of Language Structures database (https://wals.info/).
+* A sample of the Parallel Bible Corpus (PBC), a parallel text database. The sample comprises 49  typologically diverse languages selected on the basis of typological information from [*The World Atlas of Language Structures database*](https://wals.info/).
 
-* A subset of the Universal Dependencies (UD) corpora v2.3 (http://universaldependencies.org/), a non-parallel annotated text database. The selected files of the UD cover 44 distinct languages.
+* A subset of the [Universal Dependencies](http://universaldependencies.org/) (UD) corpora v2.3 , a non-parallel annotated text database. The selected files of the UD cover 44 distinct languages.
 
 The measures target language complexity at various linguistic levels, specifically, morphology, syntax, and the lexicon, or assess complexity in terms of information density. 
 
