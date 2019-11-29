@@ -1,7 +1,7 @@
 ## language-complexity-metrics
 Data, descriptions and code for metrics presented at the Interactive Workshop on Measuring Language Complexity
 
-This repository comprises a collection of metrics of language complexity which were presented as part of the *Interactive Workshop on Measuring Language Complexity* (IWMLC [http://christianbentz.de/MLC2019_index.html]) taking place at the *Freiburg Institute for Advanced Studies* in September 2019. 
+This repository comprises a collection of metrics of language complexity which were presented as part of the *Interactive Workshop on Measuring Language Complexity* ([IWMLC](http://christianbentz.de/MLC2019_index.html)) taking place at the *Freiburg Institute for Advanced Studies* in September 2019. 
 
 ### The workshop 
 
