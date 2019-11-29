@@ -1,0 +1,130 @@
+﻿id	language	part_lemma	part_pos	part_synt	dep_pos	dep_tag	dep_synt	head_pos	head_tag	class
+afr	Afrikaans				on.PRON	sis.Poss=Yes&sis.PronType=Prs	on.det	on.NOUN;on.PROPN		dep_marked
+afr	Afrikaans	on.van	on.ADP	on.case	on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+afr	Afrikaans	on.se	on.PART		on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+ara	Arabic				on.PRON	sis.Case=Gen&sis.PronType=Prs	on.nmod	on.NOUN;on.PROPN		dep_marked
+ara	Arabic				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		dep_marked
+bul	Bulgarian				on.PRON;on.DET	sis.Poss=Yes&sis.PronType=Prs	on.det	on.NOUN;on.PROPN		dep_marked
+bul	Bulgarian	on.на		on.case	on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+cat	Catalan				on.DET	sis.Poss=Yes&sis.PronType=Prs	on.det	on.NOUN;on.PROPN		dep_marked
+cat	Catalan	on.de;on.del	on.ADP	on.case	on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+ces_cac	Czech				on.DET	sis.Poss=Yes&sis.PronType=Prs	on.det	on.NOUN;on.PROPN		dep_marked
+ces_cac	Czech				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		clemma.zero;dep
+ces_cac	Czech				on.ADJ	sis.[psor];sis.Poss=Yes	on.amod	on.NOUN;on.PROPN		dep_marked
+ces_fictree	Czech				on.DET	sis.Poss=Yes&sis.PronType=Prs	on.det	on.NOUN;on.PROPN		dep_marked
+ces_fictree	Czech				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		clemma.zero;dep
+ces_fictree	Czech				on.ADJ	sis.[psor];sis.Poss=Yes	on.amod	on.NOUN;on.PROPN		dep_marked
+ces_pdt	Czech				on.DET	sis.Poss=Yes&sis.PronType=Prs	on.det	on.NOUN;on.PROPN		dep_marked
+ces_pdt	Czech				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		clemma.zero;dep
+ces_pdt	Czech				on.ADJ	sis.[psor];sis.Poss=Yes	on.amod	on.NOUN;on.PROPN		dep_marked
+chu	Old_Church_Slavonic				on.ADJ	sis.Poss=Yes&sis.!Reflex=Yes	on.nmod	on.NOUN;on.PROPN		dep_marked
+chu	Old_Church_Slavonic				on.PRON	sis.Case=Gen&sis.PronType=Prs&sis.!Reflex=Yes	on.det;on.nmod	on.NOUN;on.PROPN		dep_marked
+chu	Old_Church_Slavonic				on.ADJ	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		dep_marked
+chu	Old_Church_Slavonic				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		clemma.zero;dep
+dan	Danish				on.DET	sis.Poss=Yes&sis.PronType=Prs&sis.!Reflex=Yes	on.det	on.NOUN;on.PROPN		dep_marked
+dan	Danish				on.PRON	sis.Poss=Yes&sis.PronType=Prs&sis.!Reflex=Yes	on.nmod:poss	on.NOUN;on.PROPN		dep_marked
+dan	Danish				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod:poss	on.NOUN;on.PROPN		clemma.zero;dep
+dan	Danish	on.af	on.ADP	on.case	on.NOUN;on.PROPN;on.PRON		on.nmod	on.NOUN;on.PROPN		dep_marked
+ell	Greek				on.PRON	sis.Poss=Yes&sis.PronType=Prs	on.nmod	on.NOUN;on.PROPN		dep_marked
+ell	Greek				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		dep_marked
+eng_edt	Estonian				on.PRON	sis.PronType=Prs&sis.Case=Gen&sis.Person=	on.nmod	on.NOUN;on.PROPN		clemma.zero;dep
+eng_edt	Estonian				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		clemma.zero;dep
+eng_ewt	English				on.PRON	sis.Poss=Yes&sis.PronType=Prs	on.nmod:poss	on.NOUN;on.PROPN		dep_marked
+eng_ewt	English	on.of	on.ADP	on.case	on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+eng_ewt	English	on.'s	on.PART	on.case	on.NOUN;on.PROPN		on.nmod:poss	on.NOUN;on.PROPN		dep_marked
+eng_gum	English				on.PRON	sis.Poss=Yes&sis.PronType=Prs	on.nmod:poss	on.NOUN;on.PROPN		dep_marked
+eng_gum	English	on.of	on.ADP	on.case	on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+eng_gum	English	on.'s	on.PART	on.case	on.NOUN;on.PROPN		on.nmod:poss	on.NOUN;on.PROPN		dep_marked
+eng_lines	English				on.PRON	sis.Poss=Yes&sis.PronType=Prs	on.nmod:poss	on.NOUN;on.PROPN		dep_marked
+eng_lines	English	on.of	on.ADP	on.case	on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+eng_lines	English	on.'s	on.PART	on.case	on.NOUN;on.PROPN		on.nmod:poss	on.NOUN;on.PROPN		dep_marked
+eng_partut	English				on.PRON	sis.Poss=Yes&sis.PronType=Prs	on.nmod:poss	on.NOUN;on.PROPN		dep_marked
+eng_partut	English	on.of	on.ADP	on.case	on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+eng_partut	English	on.'s	on.PART	on.case	on.NOUN;on.PROPN		on.nmod:poss	on.NOUN;on.PROPN		dep_marked
+eus	Basque				on.PRON	sis.PronType=Prs	on.nmod	on.NOUN;on.PROPN		clemma.zero;dep
+eus	Basque				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		clemma.zero;dep
+fas	Persian				on.PRON	sis.PronType=Prs&sis.!Reflex=Yes	on.nmod:poss	on.NOUN;on.PROPN		head_marked
+fas	Persian				on.NOUN;on.PROPN		on.nmod:poss	on.NOUN;on.PROPN		head_marked
+fra_gsd	French				on.DET;on.PRON	sis.PronType=Prs	on.det	on.NOUN;on.PROPN		dep_marked
+fra_gsd	French	on.de		on.case	on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+fra_sequoia	French				on.DET;on.PRON	sis.PronType=Prs	on.det	on.NOUN;on.PROPN		dep_marked
+fra_sequoia	French	on.de		on.case	on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+got	Gothic				on.PRON	sis.PronType=Prs	on.det	on.NOUN;on.PROPN		dep_marked
+got	Gothic				on.ADJ	sis.Poss=Yes&sis.!Reflex=Yes	on.nmod	on.NOUN;on.PROPN		dep_marked
+got	Gothic				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		dep_marked
+grc_perseus	Ancient_Greek				on.PRON	sis.Person=	on.nmod	on.NOUN;on.PROPN		dep_marked
+grc_perseus	Ancient_Greek	on.ὁ	on.DET	on.det	on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		dep_marked
+grc_proiel	Ancient_Greek				on.PRON	sis.Person=	on.nmod	on.NOUN;on.PROPN		dep_marked
+grc_proiel	Ancient_Greek	on.ὁ	on.DET	on.det	on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		dep_marked
+hin	Hindi				on.PRON	sis.Poss=Yes&sis.PronType=Prs	on.nmod	on.NOUN;on.PROPN		dep_marked
+hin	Hindi	on.का	on.ADP	on.case	on.NOUN;on.PROPN	sis.Case=Acc	on.nmod	on.NOUN;on.PROPN		dep_marked
+hrv	Croatian				on.DET	sis.Poss=Yes&sis.PronType=Prs	on.det	on.NOUN;on.PROPN		dep_marked
+hrv	Croatian				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		clemma.zero;dep
+hun	Hungarian				on.PRON	sis.PronType=Prs	on.nmod:att	on.NOUN;on.PROPN		head_marked
+hun	Hungarian				on.NOUN;on.PROPN	sis.Case=Nom	on.nmod:att	on.NOUN;on.PROPN	sis.[psor]=1;sis.[psor]=3	head_marked
+ind	Indonesian				on.PRON	sis.PronType=Prs	on.det	on.NOUN;on.PROPN	sis.[psor]	head_marked
+ind	Indonesian				on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN	sis.![psor]	zero_marked
+ind	Indonesian				on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN	sis.[psor]	head_marked
+ind	Indonesian						nmod	on.NOUN;on.PROPN	sis.[psor]	head_exist
+ita_isdt	Italian				on.DET	sis.Poss=Yes&sis.PronType=Prs	on.det:poss	on.NOUN;on.PROPN		dep_marked
+ita_isdt	Italian	on.di	on.ADP	on.case	on.PRON	sis.PronType=Prs	on.nmod	on.NOUN;on.PROPN		dep_marked
+ita_isdt	Italian				on.PRON	sis.Poss=Yes&sis.PronType=Prs	on.nmod	on.NOUN;on.PROPN		dep_marked
+ita_isdt	Italian	on.di	on.ADP	on.case	on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+ita_partut	Italian				on.DET	sis.Poss=Yes&sis.PronType=Prs	on.det:poss	on.NOUN;on.PROPN		dep_marked
+ita_partut	Italian	on.di	on.ADP	on.case	on.PRON	sis.PronType=Prs	on.nmod	on.NOUN;on.PROPN		dep_marked
+ita_partut	Italian				on.PRON	sis.Poss=Yes&sis.PronType=Prs	on.nmod	on.NOUN;on.PROPN		dep_marked
+ita_partut	Italian	on.di	on.ADP	on.case	on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+ita_postwita	Italian				on.DET	sis.Poss=Yes&sis.PronType=Prs	on.det:poss	on.NOUN;on.PROPN		dep_marked
+ita_postwita	Italian	on.di	on.ADP	on.case	on.PRON	sis.PronType=Prs	on.nmod	on.NOUN;on.PROPN		dep_marked
+ita_postwita	Italian				on.PRON	sis.Poss=Yes&sis.PronType=Prs	on.nmod	on.NOUN;on.PROPN		dep_marked
+ita_postwita	Italian	on.di	on.ADP	on.case	on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+jpn	Japanese	on.の	on.ADP	on.case	on.PRON;on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+lat_ittb	Latin				on.ADJ	sis.Poss=Yes	on.amod	on.NOUN;on.PROPN		dep_marked
+lat_ittb	Latin				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		clemma.zero;dep
+lat_proiel	Latin				on.ADJ	sis.Poss=Yes	on.amod	on.NOUN;on.PROPN		dep_marked
+lat_proiel	Latin				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		clemma.zero;dep
+lav	Latvian				on.DET	sis.Poss=Yes&sis.PronType=Prs	on.det	on.NOUN;on.PROPN		clemma.zero;dep
+lav	Latvian				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		clemma.zero;dep
+nld_alpino	Dutch				on.PRON	sis.PronType=Prs	on.nmod:poss	on.NOUN;on.PROPN		dep_marked
+nld_alpino	Dutch	on.de;on.des		on.det	on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+nld_alpino	Dutch	on.van		on.case	on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+nld_lassysmall	Dutch				on.PRON	sis.PronType=Prs	on.nmod:poss	on.NOUN;on.PROPN		dep_marked
+nld_lassysmall	Dutch	on.de;on.des		on.det	on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+nld_lassysmall	Dutch	on.van		on.case	on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+nno	Norwegian				on.PRON	sis.Poss=Yes&sis.PronType=Prs	on.nmod	on.NOUN;on.PROPN		dep_marked
+nno	Norwegian				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		clemma.zero;dep
+nno	Norwegian	on.av	on.ADP	on.case	on.NOUN;on.PROPN;on.PRON		on.nmod	on.NOUN;on.PROPN		dep_marked
+nob	Norwegian				on.PRON	sis.Poss=Yes&sis.PronType=Prs	on.nmod	on.NOUN;on.PROPN		dep_marked
+nob	Norwegian				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		clemma.zero;dep
+nob	Norwegian	on.av	on.ADP	on.case	on.NOUN;on.PROPN;on.PRON		on.nmod	on.NOUN;on.PROPN		dep_marked
+por	Portuguese	on.de		on.case	on.PRON	sis.PronType=Prs	on.nmod	on.NOUN;on.PROPN		dep_marked
+por	Portuguese				on.DET	sis.PronType=Prs	on.det	on.NOUN;on.PROPN		dep_marked
+por	Portuguese	on.de		on.case	on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+slk	Slovak				on.DET	sis.Poss=Yes&sis.PronType=Prs&sis.!Reflex=Yes	on.det	on.NOUN;on.PROPN		dep_marked
+slk	Slovak				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		clemma.zero;dep
+slv	Slovenian				on.DET	sis.Poss=Yes&sis.PronType=Prs&sis.!Reflex=Yes	on.det	on.NOUN;on.PROPN		dep_marked
+slv	Slovenian				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		clemma.zero;dep
+spa_ancora	Spanish	on.de;on.del		on.case	on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+spa_ancora	Spanish					sis.Poss=Yes&sis.PronType=Prs		on.NOUN;on.PROPN		dep_marked
+spa_gsd	Spanish	on.de;on.del		on.case	on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
+spa_gsd	Spanish					sis.Poss=Yes&sis.PronType=Prs		on.NOUN;on.PROPN		dep_marked
+srp	Serbian				on.PRON	sis.Poss=Yes	on.det	on.NOUN;on.PROPN		dep_marked
+srp	Serbian				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		clemma.zero;dep
+tur	Turkish				on.PRON	sis.!Reflex=Yes	on.nmod:poss	on.NOUN;on.PROPN	sis.[psor]	double_marked
+tur	Turkish				on.PRON	sis.!Reflex=Yes	on.nmod:poss	on.NOUN;on.PROPN	sis.![psor]	dep_marked
+tur	Turkish				on.NOUN;on.PROPN	sis.Case=Gen&sis.Person	on.nmod:poss	on.NOUN;on.PROPN	sis.[psor]	double_marked
+tur	Turkish				on.NOUN;on.PROPN	sis.Case=Gen&sis.Person	on.nmod:poss	on.NOUN;on.PROPN	sis.![psor]	dep_marked
+tur	Turkish				on.NOUN;on.PROPN	sis.Case=Nom&sis.Person	on.nmod:poss	on.NOUN;on.PROPN	sis.[psor]	head_marked
+tur	Turkish				on.NOUN;on.PROPN	sis.Case=Nom&sis.Person	on.nmod:poss	on.NOUN;on.PROPN	sis.![psor]	zero_marked
+uig	Uyghur				on.PRON	sis.Case=Gen	on.nmod:poss	on.NOUN;on.PROPN		dep_marked
+uig	Uyghur				on.PRON	sis.Case=Nom	on.nmod:poss	on.NOUN;on.PROPN		zero_marked
+uig	Uyghur				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod:poss	on.NOUN;on.PROPN	sis.[psor]	clemma.head;double
+uig	Uyghur				on.NOUN;on.PROPN	sis.Case=Nom	on.nmod:poss	on.NOUN;on.PROPN	sis.[psor]	head_marked
+uig	Uyghur						nmod:poss	on.NOUN;on.PROPN	sis.[psor]	head_exist
+uig	Uyghur				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod:poss	on.NOUN;on.PROPN	sis.![psor]	clemma.zero;dep
+uig	Uyghur				on.NOUN;on.PROPN	sis.Case=Nom	on.nmod:poss	on.NOUN;on.PROPN	sis.![psor]	zero_marked
+ukr	Ukrainian				on.DET	sis.Poss=Yes&sis.PronType=Prs;sis.Poss=Yes&sis.PronType=Prs&sis.Person=	on.det	on.NOUN;on.PROPN		dep_marked
+ukr	Ukrainian				on.NOUN;on.PROPN	sis.Case=Gen	on.nmod	on.NOUN;on.PROPN		clemma.zero;dep
+urd	Urdu				on.PRON	sis.Poss=Yes&sis.PronType=Prs	on.nmod	on.NOUN;on.PROPN		dep_marked
+urd	Urdu	on.کا;on.کے;on.کی	on.ADP		on.PRON	sis.PronType=Prs	on.nmod	on.NOUN;on.PROPN		dep_marked
+urd	Urdu	on.کا;on.کے;on.کی	on.ADP	on.case	on.NOUN;on.PROPN		on.nmod	on.NOUN;on.PROPN		dep_marked
