@@ -41,13 +41,13 @@ The repository contains two main directories:
 
 #### PBCtrack 
 
-PBCtrack contains all shared task data using the Parallel Bible Corpus. It specifically comprises the following subdirectories labelled after the participants’ surnames.
+PBCtrack contains the Parallel Bible Corpus (PBC49.zip) and all shared task data which is based on the Parallel Bible Corpus. It specifically comprises the following subdirectories labelled after the participants’ surnames.
 * Gutierrez (code included)
 * Oh (code included)
 
 #### UDtrack
 
-UDtrack contains all shared task data using the Universal Dependencies corpora. It specifically comprises the following subdirectories labelled after the participants’ surnames.
+UDtrack contains the Universal Dependencies corpus data (UDtrack.zip) as well as all shared task data using the UD corpora. It specifically comprises the following subdirectories labelled after the participants’ surnames.
 
 * Brunato_venturi 
 * Coltekin_rama (code available on https://github.com/coltekin/mlc2018)
