@@ -1,0 +1,34 @@
+metric,id,domain,measured_construct,granularity,unit,type,data
+type-token-ratio,GM_TTR,morphology,lexical diversity,text level,word,text-based,PBC
+sub-word entropy rate,GM_H1gram,morphology,predictability,text level,n-gram,text-based,PBC
+sub-word entropy rate,GM_H3gram,morphology,predictability,text level,n-gram,text-based,PBC
+morphological complexity,OH_MC,morphology,lexical and inflectional marking,features,feature,feature-based,WALS
+syllable information density,OH_SID,morphology,information density,sentence level,syllable,text-based,PBC
+word information density,OH_WD,morphology,information density,sentence level,word,text-based,PBC
+sentence length,BV_n_tokens,syntax,sentence length,sentence level,word,text-based,UD
+word length,BV_char_per_tok,morphology,word length,word level,orthographic character,text-based,UD
+distribution of verbal head,BV_verbal_head_per_sent,syntax,?,sentence level,verbal head,annotation-based,UD
+distribution of verbal roots,BV_verbal_root_perc,syntax,?,sentence level,verbal roots,annotation-based,UD
+clause length,BV_avg_token_per_clause,syntax,clause length,sentence level,verbal head/tokens,annotation-based,UD
+length of dependency links,BV_avg_links_len,syntax,dependency length,sentence level,words,annotation-based,UD
+depth of parse tree,BV_avg_max_depth,syntax,sentence depth,sentence level,sentence,annotation-based,UD
+verb arity,BV_avg_verb_edges,syntax,richness of verbal predicates,sentence level,verb arguments and modifiers,annotation-based,UD
+average depth of chains of embedded subordinate clauses,BV_avg_subordinate_chain_len,syntax,subordination,sentence level,sentence,annotation-based,UD
+distribution of subordinate clauses (preceding main clause),BV_avg_subordinate_pre,syntax,subordination,sentence level,sentence,annotation-based,UD
+distribution of subordinate clauses (following main clause),BV_avg_subordinate_post,syntax,subordination,sentence level,sentence,annotation-based,UD
+inflection_accuracy,CR_inflection_accuracy,morphology,prediction of inflectional morphology,text level,word,annotation-based,UD
+type-token-ratio,CR_ttr,morphology,lexical diversity,text level,word,text-based,UD
+mean size of paradigm,CR_msp,morphology,paradigm size,text level,word,annotation-based,UD
+morphological feature entropy,CR_mfe,morphology,size of feature inventory,text level,word,annotation-based,UD
+conditional feature entropy,CR_cfe_form_feat,morphology,morphological transparency,text level,word,annotation-based,UD
+conditional feature entropy,CR_cfe_feat_form,morphology,morphological transparency,text level,word,annotation-based,UD
+average information density,S_idMean,syntax,predictability of POS based on trigrams,text level,word,annotation-based,UD
+standard deviation of the information content,S_SidSD,syntax,variability of information density,text level,word,annotation-based,UD
+percentage of possessive noun phrases with dependent marking,SI_dm,morphology,morphosyntax,sentence level,noun phrase,annotation-based,UD
+percentage of possessive noun phrases with head marking,SI_hm,morphology,morphosyntax,sentence level,noun phrase,annotation-based,UD
+dependency length in possessive NP with marking on dependent,SI_dep_dl,syntax,morphosyntax,sentence level,noun phrase,annotation-based,UD
+dependency length in possessive NP with marking on dependent and head,SI_double_dl,syntax,morphosyntax,sentence level,noun phrase,annotation-based,UD
+dependency length in possessive NP with marking on  head,SI_head_dl,syntax,morphosyntax,sentence level,noun phrase,annotation-based,UD
+dependency length in possessive NP with zero marking,SI_zero_dl,syntax,morphosyntax,sentence level,noun phrase,annotation-based,UD
+inflectional morphology,SBS_INF,morphology,Shannon entropy,text level,unigrams,annotation-based,UD
+derivational morphology,SBS_DER,morphology,Shannon entropy,text level,unigrams,annotation-based,UD
