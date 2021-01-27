@@ -1,4 +1,4 @@
-metric,id,domain,measured_construct,granularity,unit,type,data
+metric,measure,domain,measured_construct,granularity,unit,type,data
 type-token-ratio,GM_TTR,morphology,lexical diversity,text level,word,text-based,PBC
 sub-word entropy rate,GM_H1gram,morphology,predictability,text level,n-gram,text-based,PBC
 sub-word entropy rate,GM_H3gram,morphology,predictability,text level,n-gram,text-based,PBC
