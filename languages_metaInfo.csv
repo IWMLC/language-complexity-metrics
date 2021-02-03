@@ -1,0 +1,94 @@
+isocodes,glottocode,name,level,macroarea,latitude,longitude,track
+aey,amel1241,Amele,language,Papunesia,-5.29126,145.687,track a
+afr,afri1274,Afrikaans,language,Africa,-22,30,track b
+amp,alam1246,Alamblak,language,Papunesia,-4.66307,143.316,track a
+ape,buki1249,Bukiyip,language,Papunesia,-3.47169,143.111,track a
+apu,apur1254,Apurinã,language,South America,-8.21692,-66.7714,track a
+arb,stan1318,Standard Arabic,language,Eurasia,27.9625,43.8525,track b
+arn,mapu1245,Mapudungun,language,South America,-38.7392,-71.277,track a
+arz,egyp1253,Egyptian Arabic,language,Africa,31,31,track a
+bsn,bara1380,Barasana-Eduria,language,South America,0.02193,-70.808,track a
+bul,bulg1262,Bulgarian,language,Eurasia,43.3646,25.047,track b
+cat,stan1289,Catalan,language,Eurasia,41.453,1.569,track b
+ces,czec1258,Czech,language,Eurasia,49.873398,15.10437,track b
+cha,cham1312,Chamorro,language,Papunesia,13.438011,144.74474,track a
+chu,chur1257,Church Slavic,language,Eurasia,43.7171,22.8442,track b
+ckt,chuk1273,Chukchi,language,Eurasia,68.6436,170.045,track a
+cmn,mand1415,Mandarin Chinese,language,Eurasia,40.0209,116.228,track b
+dan,dani1285,Danish,language,Eurasia,54.8655,9.36284,track b
+deu,stan1295,German,language,Eurasia,48.649,12.4676,track a
+deu,stan1295,German,language,Eurasia,48.649,12.4676,track b
+dgz,daga1275,Daga,language,Papunesia,-9.9747,149.263,track a
+ell,mode1248,Modern Greek,language,Eurasia,38.36,23.13,track b
+ell,mode1248,Modern Greek,language,Eurasia,38.36,23.13,track a
+eng,stan1293,English,language,Eurasia,53,-1,track a
+eng,stan1293,English,language,Eurasia,53,-1,track b
+eus,basq1248,Basque,language,Eurasia,43.2787,-1.31622,track b
+eus,basq1248,Basque,language,Eurasia,43.2787,-1.31622,track a
+fij,fiji1243,Fijian,language,Papunesia,-18,178.33,track a
+fin,finn1318,Finnish,language,Eurasia,64.7628,25.5577,track a
+fin,finn1318,Finnish,language,Eurasia,64.7628,25.5577,track b
+fra,stan1290,French,language,Eurasia,48,2,track a
+fra,stan1290,French,language,Eurasia,48,2,track b
+got,goth1244,Gothic,language,Eurasia,46.9304,29.9786,track b
+grc,anci1242,Ancient Greek,language,Eurasia,39.8155,21.9129,track b
+gug,para1311,Paraguayan Guaraní,language,South America,-25.60551,-57.08816,track a
+hae,east2652,Eastern Oromo,language,Africa,8.67428,41.4395,track a
+hau,haus1257,Hausa,language,Africa,11.1513,8.7804,track a
+heb,hebr1245,Modern Hebrew,language,Eurasia,31.1056,35.0179,track b
+hin,hind1269,Hindi,language,Eurasia,25,77,track a
+hin,hind1269,Hindi,language,Eurasia,25,77,track b
+hrv,croa1245,Croatian Standard,dialect,Eurasia,45.555,15.982,track b
+hun,hung1274,Hungarian,language,Eurasia,46.9068585714,19.6555271429,track b
+ind,indo1316,Indonesian,language,Papunesia,-7.33458,109.716,track a
+ind,indo1316,Indonesian,language,Papunesia,-7.33458,109.716,track b
+ita,ital1282,Italian,language,Eurasia,43.0464,12.6489,track b
+jac,popt1235,Popti',language,North America,15.6609,-91.6633,track a
+jpn,nucl1643,Japanese,language,Eurasia,35,135,track b
+kal,kala1399,Kalaallisut,language,North America,69.3761,-52.864,track a
+kat,nucl1302,Georgian,language,Eurasia,41.850397,43.78613,track a
+kew,west2599,West Kewa,language,Papunesia,-6.32097,143.73,track a
+khk,halh1238,Halh Mongolian,language,Eurasia,48.324,106.289,track a
+kor,kore1280,Korean,language,Eurasia,37.5,128,track b
+kor,kore1280,Korean,language,Eurasia,37.5,128,track a
+laj,lang1324,Lango (Uganda),language,Africa,2.13867,33.0553,track a
+lat,lati1261,Latin,language,Eurasia,41.9026,12.4502,track b
+lav,latv1249,Latvian,language,Eurasia,56.826108,24.309118,track b
+mig,sanm1295,San Miguel El Grande Mixtec,language,North America,17.046881,-97.622482,track a
+mph,maun1240,Mawng,language,Australia,-11.66,133.376,track a
+mya,nucl1310,Burmese,language,Eurasia,20.7926,93.9665,track a
+mzh,wich1264,Wichí Lhamtés Güisnay,language,South America,-23.1633,-62.1757,track a
+naq,nama1264,Nama (Namibia),language,Africa,-25.0747,17.9767,track a
+nld,dutc1256,Dutch,language,Eurasia,52,5,track b
+nno,norw1262,Norwegian Nynorsk,dialect,,NA,NA,track b
+nob,norw1259,Norwegian Bokmål,dialect,Eurasia,61.112,8.886,track b
+pes,west2369,Western Farsi,language,Eurasia,32.9,53.3,track b
+pes,west2369,Western Farsi,language,Eurasia,32.9,53.3,track a
+plt,plat1254,Plateau Malagasy,language,Africa,-19.5907,47.1211,track a
+pol,poli1260,Polish,language,Eurasia,51.8439,18.6255,track b
+por,port1283,Portuguese,language,Eurasia,39.91,-8.1,track b
+qvi,imba1240,Imbabura Highland Quichua,language,South America,0.31776,-78.3729,track a
+ron,roma1327,Romanian,language,Eurasia,46.3913,24.2256,track b
+rus,russ1263,Russian,language,Eurasia,59,50,track b
+rus,russ1263,Russian,language,Eurasia,59,50,track a
+sag,sang1328,Sango,language,Africa,6.78584,20.1702,track a
+slk,slov1269,Slovak,language,Eurasia,48.545705,18.78479,track b
+slv,slov1268,Slovenian,language,Eurasia,46.2543,14.7766,track b
+spa,stan1288,Spanish,language,Eurasia,40.4414,-1.11788,track b
+spa,stan1288,Spanish,language,Eurasia,40.4414,-1.11788,track a
+srp,serb1264,Serbian Standard,dialect,Eurasia,44.3238,21.9192,track b
+swe,swed1254,Swedish,language,Eurasia,59.800634,17.389526,track b
+swh,swah1253,Swahili,language,Africa,-8.25605,37.624,track a
+tgl,taga1270,Tagalog,language,Papunesia,14.06,121.747,track a
+tha,thai1261,Thai,language,Eurasia,14.192,100.671,track a
+tur,nucl1301,Turkish,language,Eurasia,39.8667,32.8667,track a
+tur,nucl1301,Turkish,language,Eurasia,39.8667,32.8667,track b
+uig,uigh1240,Uighur,language,Eurasia,43.88,87.38,track b
+ukr,ukra1253,Ukrainian,language,Eurasia,49.796,29.945,track b
+urd,urdu1245,Urdu,language,Eurasia,25,67,track b
+vie,viet1252,Vietnamese,language,Eurasia,20.681188,105.774071,track a
+vie,viet1252,Vietnamese,language,Eurasia,20.681188,105.774071,track b
+xsu,sanu1240,Sanumá,language,South America,4,-64,track a
+yad,yagu1244,Yagua,language,South America,-3.42913,-72.2186,track a
+yaq,yaqu1251,Yaqui,language,North America,29.9446,-110.681,track a
+yor,yoru1245,Yoruba,language,Africa,7.15345,3.67225,track a
