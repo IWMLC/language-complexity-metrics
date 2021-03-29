@@ -1,0 +1,50 @@
+iso_639_3,glottocode,wals_code,name_glotto,name_wals,family_id,top_level_family,genus_wals,family_wals,macroarea_glotto,latitude_glotto,longitude_glotto
+aey,amel1241,ame,Amele,Amele,nucl1709,Nuclear Trans New Guinea,Madang,Trans-New Guinea,Papunesia,-5.29126,145.687
+amp,alam1246,ala,Alamblak,Alamblak,sepi1257,Sepik,Sepik Hill,Sepik,Papunesia,-4.66307,143.316
+ape,buki1249,arp,Bukiyip,Arapesh (Mountain),nucl1708,Nuclear Torricelli,Kombio-Arapesh,Torricelli,Papunesia,-3.47169,143.111
+apu,apur1254,apu,Apurinã,Apurinã,araw1281,Arawakan,Purus,Arawakan,South America,-8.21692,-66.7714
+arn,mapu1245,map,Mapudungun,Mapudungun,arau1255,Araucanian,Araucanian,Araucanian,South America,-38.7392,-71.277
+arz,egyp1253,aeg,Egyptian Arabic,Arabic (Egyptian),afro1255,Afro-Asiatic,Semitic,Afro-Asiatic,Africa,31,31
+bsn,bara1380,brs,Barasana-Eduria,Barasano,tuca1253,Tucanoan,Tucanoan,Tucanoan,South America,0.02193,-70.808
+cha,cham1312,cha,Chamorro,Chamorro,aust1307,Austronesian,Chamorro,Austronesian,Papunesia,13.438011,144.74474
+ckt,chuk1273,chk,Chukchi,Chukchi,chuk1271,Chukotko-Kamchatkan,Northern Chukotko-Kamchatkan,Chukotko-Kamchatkan,Eurasia,68.6436,170.045
+deu,stan1295,ger,German,German,indo1319,Indo-European,Germanic,Indo-European,Eurasia,48.649,12.4676
+dgz,daga1275,dag,Daga,Daga,daga1274,Dagan,Dagan,Dagan,Papunesia,-9.9747,149.263
+ell,mode1248,grk,Modern Greek,Greek (Modern),indo1319,Indo-European,Greek,Indo-European,Eurasia,42.3224,24.8699
+eng,stan1293,eng,English,English,indo1319,Indo-European,Germanic,Indo-European,Eurasia,53,-1
+eus,basq1248,bsq,Basque,Basque,,NA,Basque,Basque,Eurasia,43.2787,-1.31622
+fij,fiji1243,fij,Fijian,Fijian,aust1307,Austronesian,Oceanic,Austronesian,Papunesia,-18,178.33
+fin,finn1318,fin,Finnish,Finnish,ural1272,Uralic,Finnic,Uralic,Eurasia,64.7628,25.5577
+fra,stan1290,fre,French,French,indo1319,Indo-European,Romance,Indo-European,Eurasia,48,2
+gug,para1311,gua,Paraguayan Guaraní,Guaraní,tupi1275,Tupian,Tupi-Guaraní,Tupian,South America,-25.60551,-57.08816
+hae,east2652,orh,Eastern Oromo,Oromo (Harar),afro1255,Afro-Asiatic,Lowland East Cushitic,Afro-Asiatic,Africa,8.67428,41.4395
+hau,haus1257,hau,Hausa,Hausa,afro1255,Afro-Asiatic,West Chadic,Afro-Asiatic,Africa,11.1513,8.7804
+hin,hind1269,hin,Hindi,Hindi,indo1319,Indo-European,Indic,Indo-European,Eurasia,25,77
+ind,indo1316,ind,Indonesian,Indonesian,aust1307,Austronesian,Malayo-Sumbawan,Austronesian,Papunesia,-7.33458,109.716
+jac,popt1235,jak,Popti',Jakaltek,maya1287,Mayan,Mayan,Mayan,North America,15.6609,-91.6633
+kal,kala1399,grw,Kalaallisut,Greenlandic (West),eski1264,Eskimo-Aleut,Eskimo,Eskimo-Aleut,Eurasia,69.3761,-52.864
+kat,nucl1302,geo,Georgian,Georgian,kart1248,Kartvelian,Kartvelian,Kartvelian,Eurasia,41.850397,43.78613
+kew,west2599,kew,West Kewa,Kewa,nucl1709,Nuclear Trans New Guinea,Engan,Trans-New Guinea,Papunesia,-6.32097,143.73
+khk,halh1238,kha,Halh Mongolian,Khalkha,mong1329,Mongolic,Mongolic,Altaic,Eurasia,48.324,106.289
+kor,kore1280,kor,Korean,Korean,kore1284,Koreanic,Korean,Korean,Eurasia,37.5,128
+laj,lang1324,lan,Lango (Uganda),Lango,nilo1247,Nilotic,Nilotic,Eastern Sudanic,Africa,2.13867,33.0553
+mig,sanm1295,mxc,San Miguel El Grande Mixtec,Mixtec (Chalcatongo),otom1299,Otomanguean,Mixtecan,Oto-Manguean,North America,17.0777,-97.5432
+mph,maun1240,mau,Mawng,Maung,iwai1246,Iwaidjan Proper,Iwaidjan,Iwaidjan,Australia,-11.8393,133.185
+mya,nucl1310,brm,Burmese,Burmese,sino1245,Sino-Tibetan,Burmese-Lolo,Sino-Tibetan,Eurasia,20.7926,93.9665
+mzh,wich1264,wch,Wichí Lhamtés Güisnay,Wichí,mata1289,Matacoan,Matacoan,Matacoan,South America,-23.1633,-62.1757
+naq,nama1264,kho,Nama (Namibia),Khoekhoe,khoe1240,Khoe-Kwadi,Khoe-Kwadi,Khoe-Kwadi,Africa,-25.0747,17.9767
+pes,west2369,prs,Western Farsi,Persian,indo1319,Indo-European,Iranian,Indo-European,Eurasia,28.6593,55.1586
+plt,plat1254,mal,Plateau Malagasy,Malagasy,aust1307,Austronesian,Barito,Austronesian,Africa,-19.5907,47.1211
+qvi,imba1240,qim,Imbabura Highland Quichua,Quechua (Imbabura),quec1387,Quechuan,Quechuan,Quechuan,South America,0.31776,-78.3729
+rus,russ1263,rus,Russian,Russian,indo1319,Indo-European,Slavic,Indo-European,Eurasia,59,50
+sag,sang1328,san,Sango,Sango,atla1278,Atlantic-Congo,Ubangi,Niger-Congo,Africa,6.78584,20.1702
+spa,stan1288,spa,Spanish,Spanish,indo1319,Indo-European,Romance,Indo-European,Eurasia,40.4414,-1.11788
+swh,swah1253,swa,Swahili,Swahili,atla1278,Atlantic-Congo,Bantoid,Niger-Congo,Africa,-8.25605,37.624
+tgl,taga1270,tag,Tagalog,Tagalog,aust1307,Austronesian,Greater Central Philippine,Austronesian,Papunesia,14.06,121.747
+tha,thai1261,tha,Thai,Thai,taik1256,Tai-Kadai,Kam-Tai,Tai-Kadai,Eurasia,14.192,100.671
+tur,nucl1301,tur,Turkish,Turkish,turk1311,Turkic,Turkic,Altaic,Eurasia,39.8667,32.8667
+vie,viet1252,vie,Vietnamese,Vietnamese,aust1305,Austroasiatic,Viet-Muong,Austro-Asiatic,Eurasia,20.681188,105.774071
+xsu,sanu1240,snm,Sanumá,Sanuma,yano1268,Yanomamic,Yanomam,Yanomam,South America,1.31875,-67.6498
+yad,yagu1244,yag,Yagua,Yagua,peba1241,Peba-Yagua,Peba-Yaguan,Peba-Yaguan,South America,-3.42913,-72.2186
+yaq,yaqu1251,yaq,Yaqui,Yaqui,utoa1244,Uto-Aztecan,Cahita,Uto-Aztecan,North America,29.9446,-110.681
+yor,yoru1245,yor,Yoruba,Yoruba,atla1278,Atlantic-Congo,Defoid,Niger-Congo,Africa,7.15345,3.67225

@@ -1,34 +1,34 @@
-measure,description,domain,measured_construct,granularity,unit,type,data
-GM_TTR,type-token-ratio,morphology,lexical diversity,text level,word,text-based,PBC
-GM_H1gram,sub-word entropy rate at the character level,morphology,predictability,text level,n-gram,text-based,PBC
-GM_H3gram,sub-word entropy rate at the tri-character level,morphology,predictability,text level,n-gram,text-based,PBC
-OH_MC,morphological complexity based on WALS features,morphology,lexical and inflectional marking,features,feature,feature-based,WALS
-OH_SID,syllable information density,morphology,information density,sentence level,syllable,text-based,PBC
-OH_WD,word information density,morphology,information density,sentence level,word,text-based,PBC
-BV_n_tokens,sentence length,syntax,sentence length,sentence level,word,text-based,UD
-BV_char_per_tok,word length,morphology,word length,word level,orthographic character,text-based,UD
-BV_verbal_head_per_sent,distribution of verbal head,syntax,?,sentence level,verbal head,annotation-based,UD
-BV_verbal_root_perc,distribution of verbal roots,syntax,?,sentence level,verbal roots,annotation-based,UD
-BV_avg_token_per_clause,clause length,syntax,clause length,sentence level,verbal head/tokens,annotation-based,UD
-BV_avg_links_len,length of dependency links,syntax,dependency length,sentence level,words,annotation-based,UD
-BV_avg_max_depth,depth of parse tree,syntax,sentence depth,sentence level,sentence,annotation-based,UD
-BV_avg_verb_edges,verb arity,syntax,richness of verbal predicates,sentence level,verb arguments and modifiers,annotation-based,UD
-BV_avg_subordinate_chain_len,average depth of chains of embedded subordinate clauses,syntax,subordination,sentence level,sentence,annotation-based,UD
-BV_avg_subordinate_pre,distribution of subordinate clauses (preceding main clause),syntax,subordination,sentence level,sentence,annotation-based,UD
-BV_avg_subordinate_post,distribution of subordinate clauses (following main clause),syntax,subordination,sentence level,sentence,annotation-based,UD
-CR_inflection_accuracy,inflection_accuracy,morphology,prediction of inflectional morphology,text level,word,annotation-based,UD
-CR_ttr,type-token-ratio,morphology,lexical diversity,text level,word,text-based,UD
-CR_msp,mean size of paradigm,morphology,paradigm size,text level,word,annotation-based,UD
-CR_mfe,morphological feature entropy,morphology,size of feature inventory,text level,word,annotation-based,UD
-CR_cfe_form_feat,conditional feature entropy,morphology,morphological transparency,text level,word,annotation-based,UD
-CR_cfe_feat_form,conditional feature entropy,morphology,morphological transparency,text level,word,annotation-based,UD
-S_idMean,average information density,syntax,predictability of POS based on trigrams,text level,word,annotation-based,UD
-S_SidSD,standard deviation of the information content,syntax,variability of information density,text level,word,annotation-based,UD
-SI_dm,percentage of possessive noun phrases with dependent marking,morphology,morphosyntax,sentence level,noun phrase,annotation-based,UD
-SI_hm,percentage of possessive noun phrases with head marking,morphology,morphosyntax,sentence level,noun phrase,annotation-based,UD
-SI_dep_dl,dependency length in possessive NP with marking on dependent,syntax,morphosyntax,sentence level,noun phrase,annotation-based,UD
-SI_double_dl,dependency length in possessive NP with marking on dependent and head,syntax,morphosyntax,sentence level,noun phrase,annotation-based,UD
-SI_head_dl,dependency length in possessive NP with marking on  head,syntax,morphosyntax,sentence level,noun phrase,annotation-based,UD
-SI_zero_dl,dependency length in possessive NP with zero marking,syntax,morphosyntax,sentence level,noun phrase,annotation-based,UD
-SBS_INF,inflectional morphology,morphology,Shannon entropy,text level,unigrams,annotation-based,UD
-SBS_DER,derivational morphology,morphology,Shannon entropy,text level,unigrams,annotation-based,UD
+authors,measure,description,domain,measured_construct,granularity,unit,type,data
+"Gutierrez-Vasques, Mijangos",GM_TTR,type-token-ratio,morphology,lexical diversity,text level,word,text-based,PBC
+"Gutierrez-Vasques, Mijangos",GM_H1gram,sub-word entropy rate at the character level,morphology,predictability,text level,n-gram,text-based,PBC
+"Gutierrez-Vasques, Mijangos",GM_H3gram,sub-word entropy rate at the tri-character level,morphology,predictability,text level,n-gram,text-based,PBC
+Oh,OH_MC,morphological complexity based on WALS features,morphology,lexical and inflectional marking,features,feature,feature-based,WALS
+Oh,OH_SID,syllable information density,morphology,information density,sentence level,syllable,text-based,PBC
+Oh,OH_WD,word information density,morphology,information density,sentence level,word,text-based,PBC
+"Brunato, Venturi",BV_n_tokens,sentence length,syntax,sentence length,sentence level,word,text-based,UD
+"Brunato, Venturi",BV_char_per_tok,word length,morphology,word length,word level,orthographic character,text-based,UD
+"Brunato, Venturi",BV_verbal_head_per_sent,distribution of verbal head,syntax,?,sentence level,verbal head,annotation-based,UD
+"Brunato, Venturi",BV_verbal_root_perc,distribution of verbal roots,syntax,?,sentence level,verbal roots,annotation-based,UD
+"Brunato, Venturi",BV_avg_token_per_clause,clause length,syntax,clause length,sentence level,verbal head/tokens,annotation-based,UD
+"Brunato, Venturi",BV_avg_links_len,length of dependency links,syntax,dependency length,sentence level,words,annotation-based,UD
+"Brunato, Venturi",BV_avg_max_depth,depth of parse tree,syntax,sentence depth,sentence level,sentence,annotation-based,UD
+"Brunato, Venturi",BV_avg_verb_edges,verb arity,syntax,richness of verbal predicates,sentence level,verb arguments and modifiers,annotation-based,UD
+"Brunato, Venturi",BV_avg_subordinate_chain_len,average depth of chains of embedded subordinate clauses,syntax,subordination,sentence level,sentence,annotation-based,UD
+"Brunato, Venturi",BV_avg_subordinate_pre,distribution of subordinate clauses (preceding main clause),syntax,subordination,sentence level,sentence,annotation-based,UD
+"Brunato, Venturi",BV_avg_subordinate_post,distribution of subordinate clauses (following main clause),syntax,subordination,sentence level,sentence,annotation-based,UD
+"Çöltekin, Rama",CR_inflection_accuracy,inflection_accuracy,morphology,prediction of inflectional morphology,text level,word,annotation-based,UD
+"Çöltekin, Rama",CR_ttr,type-token-ratio,morphology,lexical diversity,text level,word,text-based,UD
+"Çöltekin, Rama",CR_msp,mean size of paradigm,morphology,paradigm size,text level,word,annotation-based,UD
+"Çöltekin, Rama",CR_mfe,morphological feature entropy,morphology,size of feature inventory,text level,word,annotation-based,UD
+"Çöltekin, Rama",CR_cfe_form_feat,conditional feature entropy,morphology,morphological transparency,text level,word,annotation-based,UD
+"Çöltekin, Rama",CR_cfe_feat_form,conditional feature entropy,morphology,morphological transparency,text level,word,annotation-based,UD
+Semenuks,S_idMean,average information density,syntax,predictability of POS based on trigrams,text level,word,annotation-based,UD
+Semenuks,S_SidSD,standard deviation of the information content,syntax,variability of information density,text level,word,annotation-based,UD
+"Sinnemäki, Haakana",SI_dm,percentage of possessive noun phrases with dependent marking,morphology,morphosyntax,sentence level,noun phrase,annotation-based,UD
+"Sinnemäki, Haakana",SI_hm,percentage of possessive noun phrases with head marking,morphology,morphosyntax,sentence level,noun phrase,annotation-based,UD
+"Sinnemäki, Haakana",SI_dep_dl,dependency length in possessive NP with marking on dependent,syntax,morphosyntax,sentence level,noun phrase,annotation-based,UD
+"Sinnemäki, Haakana",SI_double_dl,dependency length in possessive NP with marking on dependent and head,syntax,morphosyntax,sentence level,noun phrase,annotation-based,UD
+"Sinnemäki, Haakana",SI_head_dl,dependency length in possessive NP with marking on  head,syntax,morphosyntax,sentence level,noun phrase,annotation-based,UD
+"Sinnemäki, Haakana",SI_zero_dl,dependency length in possessive NP with zero marking,syntax,morphosyntax,sentence level,noun phrase,annotation-based,UD
+"Sozinova, Bentz, Samardžić",SBS_INF,inflectional morphology,morphology,Shannon entropy,text level,unigrams,annotation-based,UD
+"Sozinova, Bentz, Samardžić",SBS_DER,derivational morphology,morphology,Shannon entropy,text level,unigrams,annotation-based,UD

@@ -1,0 +1,64 @@
+id,Language,Treebank,Size (K tokens),Peculiarities,Ancient?,Morphological features absent from the annotation?,Family
+afr,Afrikaans,AfriBooms,49,,,,Indo-European
+ara,Arabic,PADT,282,,,,Afroasiatic
+bul,Bulgarian,BTB,156,,,,Indo-European
+cat,Catalan,Ancora,531,,,,Indo-European
+ces_cac,Czech,CAC,494,,,,Indo-European
+ces_fictree,Czech,FicTree,167,,,,Indo-European
+ces_pdt,Czech,PDT,1506,,,,Indo-European
+chu,Old Church Slavonic,PROIEL,57,,yes,,Indo-European
+cmn,Chinese,GSD,123,,,almost,Sino-Tibetan
+dan,Danish,DDT,100,,,,Indo-European
+deu,German,GSD,292,,,,Indo-European
+ell,Greek,GDT,63,,,,Indo-European
+eng_edt,Estonian,EDT,434,,,,Uralic
+eng_ewt,English,EWT,254,,,,Indo-European
+eng_gum,English,GUM,80,,,,Indo-European
+eng_lines,English,LinES,82,Parallel with Swedish LinES,,,Indo-European
+eng_partut,English,ParTut,49,,,,Indo-European
+eus,Basque,BDT,121,,,,Basque
+fas,Persian,Seraji,152,,,,Indo-European
+fin_ftb,Finnish,FTB,159,,,,Uralic
+fin_tdt,Finnish,TDT,202,,,,Indo-European
+fra_gsd,French,GSD,400,,,,Indo-European
+fra_sequoia,French,Sequoia,70,,,,Indo-European
+got,Gothic,PROIEL,55,,yes,,Indo-European
+grc_perseus,Ancient Greek,Perseus,202,,yes,,Indo-European
+grc_proiel,Ancient Greek,PROIEL,214,,yes,,Indo-European
+heb,Hebrew,HTB,161,,,,Afroasiatic
+hin,Hindi,HDTB,351,,,,Indo-European
+hrv,Croatian,SET,197,,,,Indo-European
+hun,Hungarian,Szeged,42,,,,Indo-European
+ind,Indonesian,GSD,121,,,,Austronesian
+ita_isdt,Italian,ISDT,298,,,,Indo-European
+ita_partut,Italian,ParTUT,55,,,,Indo-European
+ita_postwita,Italian,PoSTWITA,124,,,,Indo-European
+jpn,Japanese,GSD,184,,,almost,Japonic
+kor_gsd,Korean,GSD,80,,,almost,Indo-European
+kor_kaist,Korean,Kaist,350,,,yes,Koreanic
+lat_ittb,Latin,ITTB,353,,yes,,Indo-European
+lat_proiel,Latin,PROIEL,199,,yes,,Indo-European
+lav,Latvian,LVTB,152,,,,Indo-European
+nld_alpino,Dutch,Alpino,228,,,,Indo-European
+nld_lassysmall,Dutch,LassySmall,98,,,,Indo-European
+nno,Norwegian,Nynorsk,301,,,,Indo-European
+nob,Norwegian,Bokmaal,310,,,,Indo-European
+pol_lfg,Polish,LFG,130,,,,Indo-European
+pol_sz,Polish,SZ,83,,,,Indo-European
+por,Portuguese,Bosque,227,,,,Indo-European
+ron_nonstandard,Romanian,Nonstandard,195,Nonstandard,,,Indo-European
+ron_rrt,Romanian,RRT,218,,,,Indo-European
+rus_gsd,Russian,GSD,99,,,,Indo-European
+rus_syntagrus,Russian,Syntagrus,1107,,,,Indo-European
+slk,Slovak,SNK,106,,,,Indo-European
+slv,Slovenian,SSJ,140,,,,Indo-European
+spa_ancora,Spanish,Ancora,549,,,,Indo-European
+spa_gsd,Spanish,GSD,431,,,,Indo-European
+srp,Serbian,SET,86,,,,Indo-European
+swe_lines,Swedish,LinES,79,Translations from English (parallel with English LinES),,,Indo-European
+swe_talbanken,Swedish,Talbanken,96,,,,Indo-European
+tur,Turkish,IMST,57,,,,Turkic
+uig,Uyghur,UDT,40,,,,Turkic
+ukr,Ukrainian,IU,116,,,,Indo-European
+urd,Urdu,UDTB,138,,,,Indo-European
+vie,Vietnamese,VTB,43,,,almost,Austroasiatic
