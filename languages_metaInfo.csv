@@ -1,94 +1,95 @@
-"glottocode","isocodes","name","level","macroarea","latitude","longitude","track","corpus","family_id"
-"afri1274","afr","Afrikaans","language","Africa",-22,30,"track b","UD","indo1319"
-"alam1246","amp","Alamblak","language","Papunesia",-4.66307,143.316,"track a","PBC","sepi1257"
-"amel1241","aey","Amele","language","Papunesia",-5.29126,145.687,"track a","PBC","nucl1709"
-"anci1242","grc","Ancient Greek","language","Eurasia",39.8155,21.9129,"track b","UD","indo1319"
-"apur1254","apu","Apurinã","language","South America",-8.21692,-66.7714,"track a","PBC","araw1281"
-"bara1380","bsn","Barasana-Eduria","language","South America",0.02193,-70.808,"track a","PBC","tuca1253"
-"basq1248","eus","Basque","language","Eurasia",43.2787,-1.31622,"track a","PBC",""
-"basq1248","eus","Basque","language","Eurasia",43.2787,-1.31622,"track b","UD",""
-"buki1249","ape","Bukiyip","language","Papunesia",-3.47169,143.111,"track a","PBC","nucl1708"
-"bulg1262","bul","Bulgarian","language","Eurasia",43.3646,25.047,"track b","UD","indo1319"
-"cham1312","cha","Chamorro","language","Papunesia",13.438011,144.74474,"track a","PBC","aust1307"
-"chuk1273","ckt","Chukchi","language","Eurasia",68.6436,170.045,"track a","PBC","chuk1271"
-"chur1257","chu","Church Slavic","language","Eurasia",43.7171,22.8442,"track b","UD","indo1319"
-"croa1245","hrv","Croatian Standard","dialect","Eurasia",45.555,15.982,"track b","UD","indo1319"
-"czec1258","ces","Czech","language","Eurasia",49.873398,15.10437,"track b","UD","indo1319"
-"daga1275","dgz","Daga","language","Papunesia",-9.9747,149.263,"track a","PBC","daga1274"
-"dani1285","dan","Danish","language","Eurasia",54.8655,9.36284,"track b","UD","indo1319"
-"dutc1256","nld","Dutch","language","Eurasia",52,5,"track b","UD","indo1319"
-"east2652","hae","Eastern Oromo","language","Africa",8.67428,41.4395,"track a","PBC","afro1255"
-"egyp1253","arz","Egyptian Arabic","language","Africa",31,31,"track a","PBC","afro1255"
-"fiji1243","fij","Fijian","language","Papunesia",-18,178.33,"track a","PBC","aust1307"
-"finn1318","fin","Finnish","language","Eurasia",64.7628,25.5577,"track a","PBC","ural1272"
-"finn1318","fin","Finnish","language","Eurasia",64.7628,25.5577,"track b","UD","ural1272"
-"goth1244","got","Gothic","language","Eurasia",46.9304,29.9786,"track b","UD","indo1319"
-"halh1238","khk","Halh Mongolian","language","Eurasia",48.324,106.289,"track a","PBC","mong1349"
-"haus1257","hau","Hausa","language","Africa",11.1513,8.7804,"track a","PBC","afro1255"
-"hebr1245","heb","Modern Hebrew","language","Eurasia",31.1056,35.0179,"track b","UD","afro1255"
-"hind1269","hin","Hindi","language","Eurasia",25,77,"track a","PBC","indo1319"
-"hind1269","hin","Hindi","language","Eurasia",25,77,"track b","UD","indo1319"
-"hung1274","hun","Hungarian","language","Eurasia",46.9068585714,19.6555271429,"track b","UD","ural1272"
-"imba1240","qvi","Imbabura Highland Quichua","language","South America",0.31776,-78.3729,"track a","PBC","quec1387"
-"indo1316","ind","Indonesian","language","Papunesia",-7.33458,109.716,"track b","UD","aust1307"
-"indo1316","ind","Indonesian","language","Papunesia",-7.33458,109.716,"track a","PBC","aust1307"
-"ital1282","ita","Italian","language","Eurasia",43.0464,12.6489,"track b","UD","indo1319"
-"kala1399","kal","Kalaallisut","language","North America",69.3761,-52.864,"track a","PBC","eski1264"
-"kore1280","kor","Korean","language","Eurasia",37.5,128,"track a","PBC","kore1284"
-"kore1280","kor","Korean","language","Eurasia",37.5,128,"track b","UD","kore1284"
-"lang1324","laj","Lango (Uganda)","language","Africa",2.13867,33.0553,"track a","PBC","nilo1247"
-"lati1261","lat","Latin","language","Eurasia",41.9026,12.4502,"track b","UD","indo1319"
-"latv1249","lav","Latvian","language","Eurasia",56.826108,24.309118,"track b","UD","indo1319"
-"mand1415","cmn","Mandarin Chinese","language","Eurasia",40.0209,116.228,"track b","UD","sino1245"
-"mapu1245","arn","Mapudungun","language","South America",-38.7392,-71.277,"track a","PBC","arau1255"
-"maun1240","mph","Mawng","language","Australia",-11.66,133.376,"track a","PBC","iwai1246"
-"mode1248","ell","Modern Greek","language","Eurasia",38.36,23.13,"track a","PBC","indo1319"
-"mode1248","ell","Modern Greek","language","Eurasia",38.36,23.13,"track b","UD","indo1319"
-"nama1264","naq","Nama (Namibia)","language","Africa",-25.0747,17.9767,"track a","PBC","khoe1240"
-"norw1259","nob","Norwegian Bokmål","dialect","Eurasia",61.112,8.886,"track b","UD","indo1319"
-"norw1262","nno","Norwegian Nynorsk","dialect",NA,NA,NA,"track b","UD","indo1319"
-"nucl1301","tur","Turkish","language","Eurasia",39.8667,32.8667,"track b","UD","turk1311"
-"nucl1301","tur","Turkish","language","Eurasia",39.8667,32.8667,"track a","PBC","turk1311"
-"nucl1302","kat","Georgian","language","Eurasia",41.850397,43.78613,"track a","PBC","kart1248"
-"nucl1310","mya","Burmese","language","Eurasia",20.7926,93.9665,"track a","PBC","sino1245"
-"nucl1643","jpn","Japanese","language","Eurasia",35,135,"track b","UD","japo1237"
-"para1311","gug","Paraguayan Guaraní","language","South America",-25.60551,-57.08816,"track a","PBC","tupi1275"
-"plat1254","plt","Plateau Malagasy","language","Africa",-19.5907,47.1211,"track a","PBC","aust1307"
-"poli1260","pol","Polish","language","Eurasia",51.8439,18.6255,"track b","UD","indo1319"
-"popt1235","jac","Popti'","language","North America",15.6609,-91.6633,"track a","PBC","maya1287"
-"port1283","por","Portuguese","language","Eurasia",39.91,-8.1,"track b","UD","indo1319"
-"roma1327","ron","Romanian","language","Eurasia",46.3913,24.2256,"track b","UD","indo1319"
-"russ1263","rus","Russian","language","Eurasia",59,50,"track a","PBC","indo1319"
-"russ1263","rus","Russian","language","Eurasia",59,50,"track b","UD","indo1319"
-"sang1328","sag","Sango","language","Africa",6.78584,20.1702,"track a","PBC","atla1278"
-"sanm1295","mig","San Miguel El Grande Mixtec","language","North America",17.046881,-97.622482,"track a","PBC","otom1299"
-"sanu1240","xsu","Sanumá","language","South America",4,-64,"track a","PBC","yano1268"
-"serb1264","srp","Serbian Standard","dialect","Eurasia",44.3238,21.9192,"track b","UD","indo1319"
-"slov1268","slv","Slovenian","language","Eurasia",46.2543,14.7766,"track b","UD","indo1319"
-"slov1269","slk","Slovak","language","Eurasia",48.545705,18.78479,"track b","UD","indo1319"
-"stan1288","spa","Spanish","language","Eurasia",40.4414,-1.11788,"track a","PBC","indo1319"
-"stan1288","spa","Spanish","language","Eurasia",40.4414,-1.11788,"track b","UD","indo1319"
-"stan1289","cat","Catalan","language","Eurasia",41.453,1.569,"track b","UD","indo1319"
-"stan1290","fra","French","language","Eurasia",48,2,"track a","PBC","indo1319"
-"stan1290","fra","French","language","Eurasia",48,2,"track b","UD","indo1319"
-"stan1293","eng","English","language","Eurasia",53,-1,"track a","PBC","indo1319"
-"stan1293","eng","English","language","Eurasia",53,-1,"track b","UD","indo1319"
-"stan1295","deu","German","language","Eurasia",48.649,12.4676,"track a","PBC","indo1319"
-"stan1295","deu","German","language","Eurasia",48.649,12.4676,"track b","UD","indo1319"
-"stan1318","arb","Standard Arabic","language","Eurasia",27.9625,43.8525,"track b","UD","afro1255"
-"swah1253","swh","Swahili","language","Africa",-8.25605,37.624,"track a","PBC","atla1278"
-"swed1254","swe","Swedish","language","Eurasia",59.800634,17.389526,"track b","UD","indo1319"
-"taga1270","tgl","Tagalog","language","Papunesia",14.06,121.747,"track a","PBC","aust1307"
-"thai1261","tha","Thai","language","Eurasia",14.192,100.671,"track a","PBC","taik1256"
-"uigh1240","uig","Uighur","language","Eurasia",43.88,87.38,"track b","UD","turk1311"
-"ukra1253","ukr","Ukrainian","language","Eurasia",49.796,29.945,"track b","UD","indo1319"
-"urdu1245","urd","Urdu","language","Eurasia",25,67,"track b","UD","indo1319"
-"viet1252","vie","Vietnamese","language","Eurasia",20.681188,105.774071,"track b","UD","aust1305"
-"viet1252","vie","Vietnamese","language","Eurasia",20.681188,105.774071,"track a","PBC","aust1305"
-"west2369","pes","Western Farsi","language","Eurasia",32.9,53.3,"track b","UD","indo1319"
-"west2369","pes","Western Farsi","language","Eurasia",32.9,53.3,"track a","PBC","indo1319"
-"west2599","kew","West Kewa","language","Papunesia",-6.32097,143.73,"track a","PBC","nucl1709"
-"wich1264","mzh","Wichí Lhamtés Güisnay","language","South America",-23.1633,-62.1757,"track a","PBC","mata1289"
-"yagu1244","yad","Yagua","language","South America",-3.42913,-72.2186,"track a","PBC","peba1241"
-"yaqu1251","yaq","Yaqui","language","North America",29.9446,-110.681,"track a","PBC","utoa1244"
-"yoru1245","yor","Yoruba","language","Africa",7.15345,3.67225,"track a","PBC","atla1278"
+glottocode,isocodes,name,level,macroarea,latitude,longitude,track,corpus,family_id
+afri1274,afr,Afrikaans,language,Africa,-22,30,track b,UD,indo1319
+alam1246,amp,Alamblak,language,Papunesia,-4.66307,143.316,track a,PBC,sepi1257
+amel1241,aey,Amele,language,Papunesia,-5.29126,145.687,track a,PBC,nucl1709
+anci1242,grc,Ancient Greek,language,Eurasia,39.8155,21.9129,track b,UD,indo1319
+apur1254,apu,Apurinã,language,South America,-8.21692,-66.7714,track a,PBC,araw1281
+bara1380,bsn,Barasana-Eduria,language,South America,0.02193,-70.808,track a,PBC,tuca1253
+esto1258,ekk,Estonian,language,Eurasia,58.55,25.82,track b,UD,ural1272
+basq1248,eus,Basque,language,Eurasia,43.2787,-1.31622,track a,PBC,
+basq1248,eus,Basque,language,Eurasia,43.2787,-1.31622,track b,UD,
+buki1249,ape,Bukiyip,language,Papunesia,-3.47169,143.111,track a,PBC,nucl1708
+bulg1262,bul,Bulgarian,language,Eurasia,43.3646,25.047,track b,UD,indo1319
+cham1312,cha,Chamorro,language,Papunesia,13.438011,144.74474,track a,PBC,aust1307
+chuk1273,ckt,Chukchi,language,Eurasia,68.6436,170.045,track a,PBC,chuk1271
+chur1257,chu,Church Slavic,language,Eurasia,43.7171,22.8442,track b,UD,indo1319
+croa1245,hrv,Croatian Standard,dialect,Eurasia,45.555,15.982,track b,UD,indo1319
+czec1258,ces,Czech,language,Eurasia,49.873398,15.10437,track b,UD,indo1319
+daga1275,dgz,Daga,language,Papunesia,-9.9747,149.263,track a,PBC,daga1274
+dani1285,dan,Danish,language,Eurasia,54.8655,9.36284,track b,UD,indo1319
+dutc1256,nld,Dutch,language,Eurasia,52,5,track b,UD,indo1319
+east2652,hae,Eastern Oromo,language,Africa,8.67428,41.4395,track a,PBC,afro1255
+egyp1253,arz,Egyptian Arabic,language,Africa,31,31,track a,PBC,afro1255
+fiji1243,fij,Fijian,language,Papunesia,-18,178.33,track a,PBC,aust1307
+finn1318,fin,Finnish,language,Eurasia,64.7628,25.5577,track a,PBC,ural1272
+finn1318,fin,Finnish,language,Eurasia,64.7628,25.5577,track b,UD,ural1272
+goth1244,got,Gothic,language,Eurasia,46.9304,29.9786,track b,UD,indo1319
+halh1238,khk,Halh Mongolian,language,Eurasia,48.324,106.289,track a,PBC,mong1349
+haus1257,hau,Hausa,language,Africa,11.1513,8.7804,track a,PBC,afro1255
+hebr1245,heb,Modern Hebrew,language,Eurasia,31.1056,35.0179,track b,UD,afro1255
+hind1269,hin,Hindi,language,Eurasia,25,77,track a,PBC,indo1319
+hind1269,hin,Hindi,language,Eurasia,25,77,track b,UD,indo1319
+hung1274,hun,Hungarian,language,Eurasia,46.9068585714,19.6555271429,track b,UD,ural1272
+imba1240,qvi,Imbabura Highland Quichua,language,South America,0.31776,-78.3729,track a,PBC,quec1387
+indo1316,ind,Indonesian,language,Papunesia,-7.33458,109.716,track b,UD,aust1307
+indo1316,ind,Indonesian,language,Papunesia,-7.33458,109.716,track a,PBC,aust1307
+ital1282,ita,Italian,language,Eurasia,43.0464,12.6489,track b,UD,indo1319
+kala1399,kal,Kalaallisut,language,North America,69.3761,-52.864,track a,PBC,eski1264
+kore1280,kor,Korean,language,Eurasia,37.5,128,track a,PBC,kore1284
+kore1280,kor,Korean,language,Eurasia,37.5,128,track b,UD,kore1284
+lang1324,laj,Lango (Uganda),language,Africa,2.13867,33.0553,track a,PBC,nilo1247
+lati1261,lat,Latin,language,Eurasia,41.9026,12.4502,track b,UD,indo1319
+latv1249,lav,Latvian,language,Eurasia,56.826108,24.309118,track b,UD,indo1319
+mand1415,cmn,Mandarin Chinese,language,Eurasia,40.0209,116.228,track b,UD,sino1245
+mapu1245,arn,Mapudungun,language,South America,-38.7392,-71.277,track a,PBC,arau1255
+maun1240,mph,Mawng,language,Australia,-11.66,133.376,track a,PBC,iwai1246
+mode1248,ell,Modern Greek,language,Eurasia,38.36,23.13,track a,PBC,indo1319
+mode1248,ell,Modern Greek,language,Eurasia,38.36,23.13,track b,UD,indo1319
+nama1264,naq,Nama (Namibia),language,Africa,-25.0747,17.9767,track a,PBC,khoe1240
+norw1259,nob,Norwegian Bokmål,dialect,Eurasia,61.112,8.886,track b,UD,indo1319
+norw1262,nno,Norwegian Nynorsk,dialect,NA,NA,NA,track b,UD,indo1319
+nucl1301,tur,Turkish,language,Eurasia,39.8667,32.8667,track b,UD,turk1311
+nucl1301,tur,Turkish,language,Eurasia,39.8667,32.8667,track a,PBC,turk1311
+nucl1302,kat,Georgian,language,Eurasia,41.850397,43.78613,track a,PBC,kart1248
+nucl1310,mya,Burmese,language,Eurasia,20.7926,93.9665,track a,PBC,sino1245
+nucl1643,jpn,Japanese,language,Eurasia,35,135,track b,UD,japo1237
+para1311,gug,Paraguayan Guaraní,language,South America,-25.60551,-57.08816,track a,PBC,tupi1275
+plat1254,plt,Plateau Malagasy,language,Africa,-19.5907,47.1211,track a,PBC,aust1307
+poli1260,pol,Polish,language,Eurasia,51.8439,18.6255,track b,UD,indo1319
+popt1235,jac,Popti',language,North America,15.6609,-91.6633,track a,PBC,maya1287
+port1283,por,Portuguese,language,Eurasia,39.91,-8.1,track b,UD,indo1319
+roma1327,ron,Romanian,language,Eurasia,46.3913,24.2256,track b,UD,indo1319
+russ1263,rus,Russian,language,Eurasia,59,50,track a,PBC,indo1319
+russ1263,rus,Russian,language,Eurasia,59,50,track b,UD,indo1319
+sang1328,sag,Sango,language,Africa,6.78584,20.1702,track a,PBC,atla1278
+sanm1295,mig,San Miguel El Grande Mixtec,language,North America,17.046881,-97.622482,track a,PBC,otom1299
+sanu1240,xsu,Sanumá,language,South America,4,-64,track a,PBC,yano1268
+serb1264,srp,Serbian Standard,dialect,Eurasia,44.3238,21.9192,track b,UD,indo1319
+slov1268,slv,Slovenian,language,Eurasia,46.2543,14.7766,track b,UD,indo1319
+slov1269,slk,Slovak,language,Eurasia,48.545705,18.78479,track b,UD,indo1319
+stan1288,spa,Spanish,language,Eurasia,40.4414,-1.11788,track a,PBC,indo1319
+stan1288,spa,Spanish,language,Eurasia,40.4414,-1.11788,track b,UD,indo1319
+stan1289,cat,Catalan,language,Eurasia,41.453,1.569,track b,UD,indo1319
+stan1290,fra,French,language,Eurasia,48,2,track a,PBC,indo1319
+stan1290,fra,French,language,Eurasia,48,2,track b,UD,indo1319
+stan1293,eng,English,language,Eurasia,53,-1,track a,PBC,indo1319
+stan1293,eng,English,language,Eurasia,53,-1,track b,UD,indo1319
+stan1295,deu,German,language,Eurasia,48.649,12.4676,track a,PBC,indo1319
+stan1295,deu,German,language,Eurasia,48.649,12.4676,track b,UD,indo1319
+stan1318,arb,Standard Arabic,language,Eurasia,27.9625,43.8525,track b,UD,afro1255
+swah1253,swh,Swahili,language,Africa,-8.25605,37.624,track a,PBC,atla1278
+swed1254,swe,Swedish,language,Eurasia,59.800634,17.389526,track b,UD,indo1319
+taga1270,tgl,Tagalog,language,Papunesia,14.06,121.747,track a,PBC,aust1307
+thai1261,tha,Thai,language,Eurasia,14.192,100.671,track a,PBC,taik1256
+uigh1240,uig,Uighur,language,Eurasia,43.88,87.38,track b,UD,turk1311
+ukra1253,ukr,Ukrainian,language,Eurasia,49.796,29.945,track b,UD,indo1319
+urdu1245,urd,Urdu,language,Eurasia,25,67,track b,UD,indo1319
+viet1252,vie,Vietnamese,language,Eurasia,20.681188,105.774071,track b,UD,aust1305
+viet1252,vie,Vietnamese,language,Eurasia,20.681188,105.774071,track a,PBC,aust1305
+west2369,pes,Western Farsi,language,Eurasia,32.9,53.3,track b,UD,indo1319
+west2369,pes,Western Farsi,language,Eurasia,32.9,53.3,track a,PBC,indo1319
+west2599,kew,West Kewa,language,Papunesia,-6.32097,143.73,track a,PBC,nucl1709
+wich1264,mzh,Wichí Lhamtés Güisnay,language,South America,-23.1633,-62.1757,track a,PBC,mata1289
+yagu1244,yad,Yagua,language,South America,-3.42913,-72.2186,track a,PBC,peba1241
+yaqu1251,yaq,Yaqui,language,North America,29.9446,-110.681,track a,PBC,utoa1244
+yoru1245,yor,Yoruba,language,Africa,7.15345,3.67225,track a,PBC,atla1278
